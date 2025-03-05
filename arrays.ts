@@ -17,3 +17,7 @@ let employees:Array<string>=["shilpa","ravi","rakesh"];
 for(let i=0; i<employees.length; i++){
     console.log(employees[i]);
 }
+
+for(let e in employees){
+    console.log(e +":"+ employees[e]);
+} 
