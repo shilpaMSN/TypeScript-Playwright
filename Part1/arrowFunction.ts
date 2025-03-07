@@ -37,3 +37,4 @@ let add=(a:number,b:number):number=>
     let p=new Person("John","Doe");
     p.display();
 
+export{}

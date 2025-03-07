@@ -2,7 +2,7 @@
 //Type inference - not defining the type of the variable
 //Type Annotations-  defining the type of the variable 
 
-let age: number=31; //Type Annotations
+let age:number=31; //Type Annotations
 let firstname: string;
 let isEmployed: boolean=true;
 

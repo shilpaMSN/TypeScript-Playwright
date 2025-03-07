@@ -15,3 +15,4 @@ function add(a: number, b: number): number {
 }
 
 add(49,9);
+export{}
